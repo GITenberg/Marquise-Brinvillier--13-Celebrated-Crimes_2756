@@ -1,22 +1,21 @@
 ﻿                      THE MARQUISE DE BRINVILLIERS
 
 
-This eBook is for the use of anyone anywhere at no cost and with almost
-no restrictions whatsoever. You may copy it, give it away or re-use it
-under the terms of the Project Gutenberg License included with this
-eBook or online at http://www.gutenberg.org/license.
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online at
+http://www.gutenberg.org/license. If you are not located in the United
+States, you’ll have to check the laws of the country where you are
+located before using this ebook.
+
 
 
 Title: The Marquise de Brinvilliers
-
 Author: Alexandre Dumas, Pere
-
 Release Date: August 15, 2006 [EBook #2756]
-
-Last Updated: 2012-02-20
-
+Reposted: November 28, 2016 [corrections made]
 Language: English
-
 Character set encoding: UTF-8
 
 
@@ -31,13 +30,14 @@ Produced by David Widger.
 
 
 
+
                      *THE MARQUISE DE BRINVILLIERS*
 
                                   _By_
 
                         *Alexandre Dumas, Pere*
 
-         _From the set of Eight Volumes of "Celebrated Crimes"_
+         _From the set of Eight Volumes of “Celebrated Crimes”_
 
 
                                   1910
@@ -48,7 +48,6 @@ Produced by David Widger.
 CONTENTS
 
 
-    CONTENTS
     *THE MARQUISE DE BRINVILLIERS*
 
 
@@ -72,44 +71,44 @@ woman sitting at the back of the carriage. She was wrapped in cloak and
 veil, and judging by the precautions she, had taken to hide her face
 from every eye, she must have had her reasons for avoiding recognition.
 
-"Sir," said the young man, addressing the officer with a haughty air, "I
+“Sir,” said the young man, addressing the officer with a haughty air, “I
 presume, till I find myself mistaken, that your business is with me
 alone; so I will ask you to inform me what powers you may have for thus
 stopping my coach; also, since I have alighted, I desire you to give
-your men orders to let the vehicle go on."
+your men orders to let the vehicle go on.”
 
-"First of all," replied the man, by no means intimidated by these lordly
+“First of all,” replied the man, by no means intimidated by these lordly
 airs, but signing to his men that they must not release the coach or the
-horses, "be so good as to answer my questions."
+horses, “be so good as to answer my questions.”
 
-"I am attending," said the young man, controlling his agitation by a
+“I am attending,” said the young man, controlling his agitation by a
 visible effort.
 
-"Are you the Chevalier Gaudin de Sainte-Croix?"
+“Are you the Chevalier Gaudin de Sainte-Croix?”
 
-"I am he."
+“I am he.”
 
-"Captain of the Tracy, regiment?"
+“Captain of the Tracy, regiment?”
 
-"Yes, sir."
+“Yes, sir.”
 
-"Then I arrest you in the king’s name."
+“Then I arrest you in the king’s name.”
 
-"What powers have you?"
+“What powers have you?”
 
-"This warrant."
+“This warrant.”
 
 Sainte-Croix cast a rapid glance at the paper, and instantly recognised
 the signature of the minister of police: he then apparently confined his
 attention to the woman who was still in the carriage; then he returned
 to his first question.
 
-"This is all very well, sir," he said to the officer, "but this warrant
+“This is all very well, sir,” he said to the officer, “but this warrant
 contains no other name than mine, and so you have no right to expose
 thus to the public gaze the lady with whom I was travelling when you
 arrested me. I must beg of you to order your assistants to allow this
 carriage to drive on; then take me where you please, for I am ready to
-go with you."
+go with you.”
 
 To the officer this request seemed a just one: he signed to his men to
 let the driver and the horses go on; and, they, who had waited only for
@@ -127,7 +126,7 @@ described. The officer sat beside him, two of his men got up behind, and
 the other two, obeying no doubt their master’s orders, retired with a
 parting direction to the driver.
 
-"The Bastille!"
+“The Bastille!”
 
 Our readers will now permit us to make them more fully acquainted with
 the man who is to take the first place in the story. The origin of
@@ -235,22 +234,22 @@ strange fantastic being step by step approached him. At length the
 apparition paused, the prisoner and he stood face to face for a moment,
 their eyes riveted; then the mysterious stranger spoke in gloomy tones.
 
-"Young man," said he, "you have prayed to the devil for vengeance on the
+“Young man,” said he, “you have prayed to the devil for vengeance on the
 men who have taken you, for help against the God who has abandoned you.
 I have the means, and I am here to proffer it. Have you the courage to
-accept?"
+accept?”
 
-"First of all," asked Sainte-Croix; "who are you?"
+“First of all,” asked Sainte-Croix; “who are you?”
 
-"Why seek you to know who I am," replied the unknown, "at the very
-moment when I come at your call, and bring what you desire?"
+“Why seek you to know who I am,” replied the unknown, “at the very
+moment when I come at your call, and bring what you desire?”
 
-"All the same," said Sainte-Croix, still attributing what he heard to a
-supernatural being, "when one makes a compact of this kind, one prefers
-to know with whom one is treating."
+“All the same,” said Sainte-Croix, still attributing what he heard to a
+supernatural being, “when one makes a compact of this kind, one prefers
+to know with whom one is treating.”
 
-"Well, since you must know," said the stranger, "I am the Italian
-Exili."
+“Well, since you must know,” said the stranger, “I am the Italian
+Exili.”
 
 Sainte-Croix shuddered anew, passing from a supernatural vision to a
 horrible reality. The name he had just heard had a terrible notoriety at
@@ -468,7 +467,7 @@ be used on this occasion was not so swift as the one taken by M.
 d’Aubray so violent a death happening so soon in the same family might
 arouse suspicion. Experiments were tried once more, not on animals—for
 their different organisation might put the poisoner’s science in the
-wrong—but as before upon human subjects; as before, a ’corpus vili’ was
+wrong—but as before upon human subjects; as before, a ‘corpus vili’ was
 taken. The marquise had the reputation of a pious and charitable lady;
 seldom did she fail to relieve the poor who appealed: more than this,
 she took part in the work of those devoted women who are pledged to the
@@ -495,9 +494,9 @@ and Lachaussee, who served the councillor, as we said before, came up
 for orders. He found the lieutenant at work with his secretary, Couste
 what he wanted was a glass of wine and water. In a moment Lachaussee
 brought it in. The lieutenant put the glass to his lips, but at the
-first sip pushed it away, crying, "What have you brought, you wretch? I
-believe you want to poison me." Then handing the glass to his secretary,
-he added, "Look at it, Couste: what is this stuff?" The secretary put a
+first sip pushed it away, crying, “What have you brought, you wretch? I
+believe you want to poison me.” Then handing the glass to his secretary,
+he added, “Look at it, Couste: what is this stuff?” The secretary put a
 few drops into a coffee-spoon, lifting it to his nose and then to his
 mouth: the drink had the smell and taste of vitriol. Meanwhile
 Lachaussee went up to the secretary and told him he knew what it must
@@ -568,7 +567,7 @@ three months he died. His stomach, duodenum, and liver were all in the
 same corrupt state as his brother’s, and more than that, the surface of
 his body was burnt away. This, said the doctors; was no dubious sign of
 poisoning; although, they added, it sometimes happened that a
-’cacochyme’ produced the same effect. Lachaussee was so far from being
+‘cacochyme’ produced the same effect. Lachaussee was so far from being
 suspected, that the councillor, in recognition of the care he had
 bestowed on him in his last illness, left him in his will a legacy of a
 hundred crowns; moreover, he received a thousand francs from
@@ -632,7 +631,7 @@ water on the project.
 
 Sainte-Croix thus wrote to Belleguise:
 
-"DEAR FRIEND,—Is it possible that you need any more talking to about the
+“DEAR FRIEND,—Is it possible that you need any more talking to about the
 matter you know of, so important as it is, and, maybe, able to give us
 peace and quiet for the rest of our days! I really think the devil must
 be in it, or else you simply will not be sensible: do show your common
@@ -646,7 +645,7 @@ for I have not spoken so openly even to my own brother as I have to you.
 If you can come this afternoon, I shall be either at the house or quite
 near at hand, you know where I mean, or I will expect you tomorrow
 morning, or I will come and find you, according to what you
-reply.—Always yours with all my heart."
+reply.—Always yours with all my heart.”
 
 The house meant by Sainte-Croix was in the rue des Bernardins, and the
 place near at hand where he was to wait for Belleguise was the room he
@@ -690,14 +689,14 @@ the first to learn of his master’s death; and hearing that a seal had
 been set upon his room, he hastened to put in an objection in these
 terms:
 
-"Objection of Lachaussee, who asserts that for seven years he was in the
+“Objection of Lachaussee, who asserts that for seven years he was in the
 service of the deceased; that he had given into his charge, two years
 earlier, 100 pistoles and 200 white crowns, which should be found in a
 cloth bag under the closet window, and in the same a paper stating that
 the said sum belonged to him, together with the transfer of 300 livres
 owed to him by the late M. d’Aubray, councillor; the said transfer made
 by him at Laserre, together with three receipts from his master of
-apprenticeship, 100 livres each: these moneys and papers he claims."
+apprenticeship, 100 livres each: these moneys and papers he claims.”
 
 To Lachaussee the reply was given that he must wait till the day when
 the seals were broken, and then if all was as he said, his property
@@ -727,18 +726,18 @@ Liege, arriving the next morning, and retired to a convent.
 The seals had been set on the 31st of July 1672, and they were taken off
 on the 8th of August following. Just as they set to work a lawyer
 charged with full powers of acting for the marquise, appeared and put in
-the following statement: "Alexandre Delamarre, lawyer acting for the
+the following statement: “Alexandre Delamarre, lawyer acting for the
 Marquise de Brinvilliers, has come forward, and declares that if in the
 box claimed by his client there is found a promise signed by her for the
 sum of 30,000 livres, it is a paper taken from her by fraud, against
 which, in case of her signature being verified, she intends to lodge an
-appeal for nullification." This formality over, they proceeded to open
+appeal for nullification.” This formality over, they proceeded to open
 Sainte-Croix’s closet: the key was handed to the commissary Picard by a
 Carmelite called Friar Victorin. The commissary opened the door, and
 entered with the parties interested, the officers, and the widow, and
 they began by setting aside the loose papers, with a view to taking them
 in order, one at a time. While they were thus busy, a small roll fell
-down, on which these two words were written: "My Confession." All
+down, on which these two words were written: “My Confession.” All
 present, having no reason to suppose Sainte-Croix a bad man, decided
 that this paper ought not to be read. The deputy for the attorney
 general on being consulted was of this opinion, and the confession of
@@ -751,9 +750,9 @@ went near to see what was in it, and it was opened.
 We shall let the report speak: in such cases nothing is so effective or
 so terrible as the official statement.
 
-"In the closet of Sainte-Croix was found a small box one foot square, on
-the top of which lay a half-sheet of paper entitled ’My Will,’ written
-on one side and containing these words: ’I humbly entreat any into whose
+“In the closet of Sainte-Croix was found a small box one foot square, on
+the top of which lay a half-sheet of paper entitled ‘My Will,’ written
+on one side and containing these words: ‘I humbly entreat any into whose
 hands this chest may fall to do me the kindness of putting it into the
 hands of Madame the Marquise de Brinvilliers, resident in the rue
 Neuve-Saint-Paul, seeing that all the contents concern and belong to her
@@ -766,28 +765,28 @@ If anyone should contravene my wishes that are just and reasonable in
 this matter, I charge their conscience therewith in discharging my own
 in this world and the next, protesting that such is my last wish.
 
-"’Given at Paris, the 25th of May after noon, 1672. Signed by
+“‘Given at Paris, the 25th of May after noon, 1672. Signed by
 Sainte-Croix,’
 
-"And below were written these words: ’There is one packet only addressed
-to M. Penautier which should be delivered.’"
+“And below were written these words: ‘There is one packet only addressed
+to M. Penautier which should be delivered.’”
 
 It may be easily understood that a disclosure of this kind only
 increased the interest of the scene; there was a murmur of curiosity,
 and when silence again reigned, the official continued in these words:
 
-"A packet has been found sealed in eight different places with eight
-different seals. On this is written: ’Papers to be burnt in case of my
+“A packet has been found sealed in eight different places with eight
+different seals. On this is written: ‘Papers to be burnt in case of my
 death, of no consequence to anyone. I humbly beg those into whose hands
 they may fall to burn them. I give this as a charge upon their
 conscience; all without opening the packet.’ In this packet we find two
 parcels of sublimate.
 
-"Item, another packet sealed with six different seals, on which is a
+“Item, another packet sealed with six different seals, on which is a
 similar inscription, in which is found more sublimate, half a pound in
 weight.
 
-"Item, another packet sealed with six different seals, on which is a
+“Item, another packet sealed with six different seals, on which is a
 similar inscription, in which are found three parcels, one containing
 half an ounce of sublimate, the second 2 1/4 ozs. of Roman vitriol, and
 the third some calcined prepared vitriol. In the box was found a large
@@ -795,38 +794,38 @@ square phial, one pint in capacity, full of a clear liquid, which was
 looked at by M. Moreau, the doctor; he, however, could not tell its
 nature until it was tested.
 
-"Item, another phial, with half a pint of clear liquid with a white
+“Item, another phial, with half a pint of clear liquid with a white
 sediment, about which Moreau said the same thing as before.
 
-"Item, a small earthenware pot containing two or three lumps of prepared
+“Item, a small earthenware pot containing two or three lumps of prepared
 opium.
 
-"Item, a folded paper containing two drachms of corrosive sublimate
+“Item, a folded paper containing two drachms of corrosive sublimate
 powdered.
 
-"Next, a little box containing a sort of stone known as infernal stone.
+“Next, a little box containing a sort of stone known as infernal stone.
 
-"Next, a paper containing one ounce of opium.
+“Next, a paper containing one ounce of opium.
 
-"Next, a piece of pure antimony weighing three ounces.
+“Next, a piece of pure antimony weighing three ounces.
 
-"Next, a packet of powder on which was written: ’To check the flow of
+“Next, a packet of powder on which was written: ‘To check the flow of
 blood.’ Moreau said that it was quince flower and quince buds dried.
 
-"Item, a pack sealed with six seals, on which was written, ’Papers to be
+“Item, a pack sealed with six seals, on which was written, ‘Papers to be
 burnt in case of death.’ In this twenty-four letters were found, said to
 have been written by the Marquise de Brinvilliers.
 
-"Item, another packet sealed with six seals, on which a similar
+“Item, another packet sealed with six seals, on which a similar
 inscription was written. In this were twenty-seven pieces of paper on
-each of which was written: ’Sundry curious secrets.’
+each of which was written: ‘Sundry curious secrets.’
 
-"Item, another packet with six more seals, on which a similar
+“Item, another packet with six more seals, on which a similar
 inscription was written. In this were found seventy-five livres,
 addressed to different persons. Besides all these, in the box there were
 two bonds, one from the marquise for 30,000, and one from Penautier for
 10,000 francs, their dates corresponding to the time of the deaths of M.
-d’Aubray and the Sieur de St. Laurent."
+d’Aubray and the Sieur de St. Laurent.”
 
 The difference in the amount shows that Sainte-Croix had a tariff, and
 that parricide was more expensive than simple assassination. Thus in his
@@ -839,7 +838,7 @@ substances to analysis, and to experiment with them on animals. The
 report follows of Guy Simon, an apothecary, who was charged to undertake
 the analysis and the experiments:
 
-"This artificial poison reveals its nature on examination. It is so
+“This artificial poison reveals its nature on examination. It is so
 disguised that one fails to recognise it, so subtle that it deceives the
 scientific, so elusive that it escapes the doctor’s eye: experiments
 seem to be at fault with this poison, rules useless, aphorisms
@@ -848,14 +847,14 @@ or upon animals. In water, ordinary poison falls by its own weight. The
 water is superior, the poison obeys, falls downwards, and takes the
 lower place.
 
-"The trial by fire is no less certain: the fire evaporates and disperses
+“The trial by fire is no less certain: the fire evaporates and disperses
 all that is innocent and pure, leaving only acrid and sour matter which
 resists its influence. The effect produced by poisons on animals is
 still more plain to see: its malignity extends to every part that it
 reaches, and all that it touches is vitiated; it burns and scorches all
 the inner parts with a strange, irresistible fire.
 
-"The poison employed by Sainte-Croix has been tried in all the ways, and
+“The poison employed by Sainte-Croix has been tried in all the ways, and
 can defy every experiment. This poison floats in water, it is the
 superior, and the water obeys it; it escapes in the trial by fire,
 leaving behind only innocent deposits; in animals it is so skilfully
@@ -875,7 +874,7 @@ The cat vomited for half an hour, and was found dead the next day, but
 when opened no part of it was found to be affected by the poison. A
 second trial of the same poison was made upon a pigeon, which soon died.
 When opened, nothing peculiar was found except a little reddish water in
-the stomach."
+the stomach.”
 
 These experiments proved that Sainte-Croix was a learned chemist, and
 suggested the idea that he did not employ his art for nothing; everybody
@@ -927,7 +926,7 @@ mattress, where, in a weak voice—for he could hardly speak—he begged for
 half an hour to recover himself. We give a verbatim extract from the
 report of the question and the execution of the death-sentence:
 
-"Lachaussee, released from the question and laid on the mattress, the
+“Lachaussee, released from the question and laid on the mattress, the
 official reporter retired. Half an hour later Lachaussee begged that he
 might return, and said that he was guilty; that Sainte-Croix told him
 that Madame de Brinvilliers had given him the poison to administer to
@@ -943,10 +942,10 @@ to compel him to go away, offering him money if he would go; that she
 had asked him for the box and its contents; that if Sainte-Croix had
 been able to put anyone into the service of Madame d’Aubray, the
 lieutenant’s widow, he would possibly have had her poisoned also; for he
-had a fancy for her daughter."
+had a fancy for her daughter.”
 
 This declaration, which left no room for doubt, led to the judgment that
-came next, thus described in the Parliamentary register: "Report of the
+came next, thus described in the Parliamentary register: “Report of the
 question and execution on the 24th of March 1673, containing the
 declarations and confessions of Jean Amelin Lachaussee; the court has
 ordered that the persons mentioned, Belleguise, Martin, Poitevin,
@@ -954,7 +953,7 @@ Olivier, Veron pere, the wife of Quesdon the wigmaker, be summoned to
 appear before the court to be interrogated and heard concerning matters
 arising from the present inquiry, and orders that the decree of arrest
 against Lapierre and summons against Penautier decreed by the criminal
-lieutenant shall be carried out. In Parliament, 27th March 1673." In
+lieutenant shall be carried out. In Parliament, 27th March 1673.” In
 virtue of this judgment, Penautier, Martin, and Belleguise were
 interrogated on the 21st, 22nd, and 24th of April. On the 26th of July,
 Penautier was discharged; fuller information was desired concerning
@@ -1051,8 +1050,8 @@ for that. She proposed that he should cut Desgrais’ throat; but he
 refused, saying that he was at her service in any other way. So she
 asked him for pen and paper, and wrote this letter:
 
-"DEAR THERIA,—I am in the hands of Desgrais, who is taking me by road
-from Liege to Paris. Come quickly and save me."
+“DEAR THERIA,—I am in the hands of Desgrais, who is taking me by road
+from Liege to Paris. Come quickly and save me.”
 
 Antoine Barbier took the letter, promising to deliver it at the right
 address; but he gave it to Desgrais instead. The next day, finding that
@@ -1075,12 +1074,12 @@ might put questions to her at a time when she least expected them, and
 so would not have prepared her answers. Desgrais told him all that had
 passed, and specially called his attention to the famous box, the object
 of so much anxiety and so many eager instructions. M. de Palluau opened
-it, and found among other things a paper headed "My Confession." This
+it, and found among other things a paper headed “My Confession.” This
 confession was a proof that the guilty feel great need of discovering
 their crimes either to mankind or to a merciful God. Sainte-Croix, we
 know, had made a confession that was burnt, and here was the marquise
 equally imprudent. The confession contained seven articles, and began
-thus, "I confess to God, and to you, my father," and was a complete
+thus, “I confess to God, and to you, my father,” and was a complete
 avowal, of all the crimes she had committed.
 
 In the first article she accused herself of incendiarism;
@@ -1181,9 +1180,9 @@ The sergeant Cluet deposed: that, observing a lackey to M. d’Aubray, the
 councillor, to be the man Lachaussee, whom he had seen in the service of
 Sainte-Croix, he said to the marquise that if her brother knew that
 Lachaussee had been with Sainte-Croix he would not like it, but that
-Madame de Brinvilliers exclaimed, "Dear me, don’t tell my brothers; they
+Madame de Brinvilliers exclaimed, “Dear me, don’t tell my brothers; they
 would give him a thrashing, no doubt, and he may just as well get his
-wages as any body else." He said nothing to the d’Aubrays, though he saw
+wages as any body else.” He said nothing to the d’Aubrays, though he saw
 Lachaussee paying daily visits to Sainte-Croix and to the marquise, who
 was worrying Sainte-Croix to let her have her box, and wanted her bill
 for two or three thousand pistoles. Other wise she would have had him
@@ -1193,12 +1192,12 @@ but only concerned herself. After the box was opened, the witness added,
 he had told the marquise, that the commissary Picard said to Lachaussee
 that there were strange things in it; but the lady blushed, and changed
 the subject. He asked her if she were not an accomplice. She said,
-"What! I?" but then muttered to herself: "Lachaussee ought to be sent
-off to Picardy." The witness repeated that she had been after
+“What! I?” but then muttered to herself: “Lachaussee ought to be sent
+off to Picardy.” The witness repeated that she had been after
 Sainte-Croix along time about the box, and if she had got it she would
 have had his throat cut. The witness further said that when he told
 Briancourt that Lachaussee was taken and would doubtless confess all,
-Briancourt, speaking of the marquise, remarked, "She is a lost woman."
+Briancourt, speaking of the marquise, remarked, “She is a lost woman.”
 That d’Aubray’s daughter had called Briancourt a rogue, but Briancourt
 had replied that she little knew what obligations she was under to him;
 that they had wanted to poison both her and the lieutenant’s widow, and
@@ -1211,11 +1210,11 @@ to see the marquise every day, and that in a box belonging to that lady
 she had seen two little packets containing sublimate in powder and in
 paste: she recognised these, because she was an apothecary’s daughter.
 She added that one day Madame de Brinvilliers, after a dinner party, in
-a merry mood, said, showing her a little box, "Here is vengeance on
-one’s enemies: this box is small, but holds plenty of successsions!"
+a merry mood, said, showing her a little box, “Here is vengeance on
+one’s enemies: this box is small, but holds plenty of successsions!”
 That she gave back the box into her hands, but soon changing from her
-sprightly mood, she cried, "Good heavens, what have I said? Tell
-nobody." That Lambert, clerk at the palace, told her he had brought the
+sprightly mood, she cried, “Good heavens, what have I said? Tell
+nobody.” That Lambert, clerk at the palace, told her he had brought the
 packets to Madame from Sainte-Croix; that Lachaussee often went to see
 her; and that she herself, not being paid ten pistoles which the
 marquise owed her, went to complain to Sainte-Croix, threatening to tell
@@ -1250,7 +1249,7 @@ containing her confession, but he refused it; that on the road to Paris
 the marquise had told him that she believed it was Glazer who made the
 poisons for Sainte-Croix; that Sainte-Croix, who had made a rendezvous
 with her one day at the cross Saint-Honore, there showed her four little
-bottles, saying, "See what Glazer has sent me." She asked him for one,
+bottles, saying, “See what Glazer has sent me.” She asked him for one,
 but Sainte-Croix said he would rather die than give it up. He added that
 the archer Antoine Barbier had given him three letters written by the
 marquise to Theria; that in the first she had told him to come at once
@@ -1301,7 +1300,7 @@ Sainte-Croix. As to the confession, the strongest and, he maintained,
 the only evidence against Madame de Brinvilliers, he attacked its
 validity by bringing forward certain similar cases, where the evidence
 supplied by the accused against themselves had not been admitted by
-reason of the legal action: ’Non auditur perire volens’. He cited three
+reason of the legal action: ‘Non auditur perire volens’. He cited three
 instances, and as they are themselves interesting, we copy them verbatim
 from his notes.
 
@@ -1316,7 +1315,7 @@ against the writer on the strength of this document. Now this judge was
 justly punished by his superior, because confession is so sacred that
 even that which is destined to constitute the confession should be
 wrapped in eternal silence. In accordance with this precedent, the
-following judgment, reported in the ’Traite des Confesseurs’, was given
+following judgment, reported in the ‘Traite des Confesseurs’, was given
 by Roderic Acugno. A Catalonian, native of Barcelona, who was condemned
 to death for homicide and owned his guilt, refused to confess when the
 hour of punishment arrived. However strongly pressed, he resisted, and
@@ -1466,33 +1465,33 @@ obdurate judges present wept when they heard him. When the marquise
 perceived the doctor, suspecting that her trial was leading her to
 death, she approached him, saying:
 
-"You have come, sir, because——"
+“You have come, sir, because——”
 
 But Father Chavigny, who was with M. Pirot; interrupted her, saying:
 
-"Madame, we will begin with a prayer."
+“Madame, we will begin with a prayer.”
 
 They all fell on their knees invoking the Holy Spirit; then the marquise
 asked them to add a prayer to the Virgin, and, this prayer finished, she
 went up to the doctor, and, beginning afresh, said:
 
-"Sir, no doubt the president has sent you to give me consolation: with
+“Sir, no doubt the president has sent you to give me consolation: with
 you I am to pass the little life I have left. I have long been eager to
-see you."
+see you.”
 
-"Madame," the doctor replied, "I come to render you any spiritual office
-that I can; I only wish it were on another occasion."
+“Madame,” the doctor replied, “I come to render you any spiritual office
+that I can; I only wish it were on another occasion.”
 
-"We must have resolution, sir," said she, smiling, "for all things."
+“We must have resolution, sir,” said she, smiling, “for all things.”
 
 Then turning to Father Chavigny, she said:
 
-"My father, I am very grateful to you for bringing the doctor here, and
+“My father, I am very grateful to you for bringing the doctor here, and
 for all the other visits you have been willing to pay me. Pray to God
 for me, I entreat you; henceforth I shall speak with no one but the
 doctor, for with him I must speak of things that can only be discussed
 tete-a-tete. Farewell, then, my father; God will reward you for the
-attention you have been willing to bestow upon me."
+attention you have been willing to bestow upon me.”
 
 With these words the father retired, leaving the marquise alone with the
 doctor and the two men and one woman always in attendance on her. They
@@ -1512,12 +1511,12 @@ her that sentence was not yet given, and he did not know precisely when
 it would be, still less what it would be; but at these words the
 marquise interrupted him.
 
-"Sir," she said, "I am not troubled about the future. If my sentence is
+“Sir,” she said, “I am not troubled about the future. If my sentence is
 not given yet, it soon will be. I expect the news this morning, and I
 know it will be death: the only grace I look for from the president is a
 delay between the sentence and its execution; for if I were executed
 to-day I should have very little time to prepare, and I feel I have need
-for more."
+for more.”
 
 The doctor did not expect such words, so he was overjoyed to learn what
 she felt. In addition to what the president had said, he had heard from
@@ -1525,11 +1524,11 @@ Father Chavigny that he had told her the Sunday before that it was very
 unlikely she would escape death, and indeed, so far as one could judge
 by reports in the town, it was a foregone conclusion. When he said so,
 at first she had appeared stunned, and said with an air of great terror,
-"Father, must I die?" And when he tried to speak words of consolation,
+“Father, must I die?” And when he tried to speak words of consolation,
 she had risen and shaken her head, proudly replying—
 
-"No, no, father; there is no need to encourage me. I will play my part,
-and that at once: I shall know how to die like a woman of spirit."
+“No, no, father; there is no need to encourage me. I will play my part,
+and that at once: I shall know how to die like a woman of spirit.”
 
 Then the father had told her that we cannot prepare for death so quickly
 and so easily; and that we have to be in readiness for a long time, not
@@ -1539,23 +1538,23 @@ quarter of an hour to confess in, and one moment to die.
 So the doctor was very glad to find that between Sunday and Thursday her
 feelings had changed so much.
 
-"Yes," said she, "the more I reflect the more I feel that one day would
+“Yes,” said she, “the more I reflect the more I feel that one day would
 not be enough to prepare myself for God’s tribunal, to be judged by Him
-after men have judged me."
+after men have judged me.”
 
-"Madame," replied the doctor, "I do not know what or when your sentence
+“Madame,” replied the doctor, “I do not know what or when your sentence
 will be; but should it be death, and given to-day, I may venture to
 promise you that it will not be carried out before to-morrow. But
 although death is as yet uncertain, I think it well that you should be
-prepared for any event."
+prepared for any event.”
 
-"Oh, my death is quite certain," said she, "and I must not give way to
+“Oh, my death is quite certain,” said she, “and I must not give way to
 useless hopes. I must repose in you the great secrets of my whole life;
 but, father, before this opening of my heart, let me hear from your lips
 the opinion you have formed of me, and what you think in my present
-state I ought to do."
+state I ought to do.”
 
-"You perceive my plan," said the doctor, "and you anticipate what I was
+“You perceive my plan,” said the doctor, “and you anticipate what I was
 about to say. Before entering into the secrets of your conscience,
 before opening the discussion of your affairs with God, I am ready,
 madame, to give you certain definite rules. I do not yet know whether
@@ -1565,12 +1564,12 @@ your confession. Thus it is my duty still to doubt your guilt. But I
 cannot be ignorant of what you are accused of: this is a public matter,
 and has reached my ears; for, as you may imagine, madame, your affairs
 have made a great stir, and there are few people who know nothing about
-them."
+them.”
 
-"Yes," she said, smiling, "I know there has been a great deal of talk,
-and I am in every man’s mouth."
+“Yes,” she said, smiling, “I know there has been a great deal of talk,
+and I am in every man’s mouth.”
 
-"Then," replied the doctor, "the crime you are accused of is poisoning.
+“Then,” replied the doctor, “the crime you are accused of is poisoning.
 If you are guilty, as is believed, you cannot hope that God will pardon
 you unless you make known to your judges what the poison is, what is its
 composition and what its antidote, also the names of your accomplices.
@@ -1582,20 +1581,20 @@ life; thus one might say you survive yourself, for your crime survives
 you. You know, madame, that a sin in the moment of death is never
 pardoned, and that to get remission for your crimes, if crimes you have,
 they must die when you die: for if you slay them not, be very sure they
-will slay you."
+will slay you.”
 
-"Yes, I am sure of that," replied the marquise, after a moment of silent
-thought; "and though I will not admit that I am guilty, I promise, if I
+“Yes, I am sure of that,” replied the marquise, after a moment of silent
+thought; “and though I will not admit that I am guilty, I promise, if I
 am guilty, to weigh your words. But one question, sir, and pray take
 heed that an answer is necessary. Is there not crime in this world that
 is beyond pardon? Are not some people guilty of sins so terrible and so
 numerous that the Church dares not pardon them, and if God, in His
 justice, takes account of them, He cannot for all His mercy pardon them?
 See, I begin with this question, because, if I am to have no hope, it is
-needless for me to confess."
+needless for me to confess.”
 
-"I wish to think, madame," replied the doctor, in spite of himself half
-frightened at the marquise, "that this your first question is only put
+“I wish to think, madame,” replied the doctor, in spite of himself half
+frightened at the marquise, “that this your first question is only put
 by way of a general thesis, and has nothing to do with your own state. I
 shall answer the question without any personal application. No, madame,
 in this life there are no unpardonable sinners, terrible and numerous
@@ -1603,23 +1602,23 @@ howsoever their sins may be. This is an article of faith, and without
 holding it you could not die a good Catholic. Some doctors, it is true,
 have before now maintained the contrary, but they have been condemned as
 heretics. Only despair and final impenitence are unpardonable, and they
-are not sins of our life but in our death."
+are not sins of our life but in our death.”
 
-"Sir," replied the marquise, "God has given me grace to be convinced by
+“Sir,” replied the marquise, “God has given me grace to be convinced by
 what you say, and I believe He will pardon all sins—that He has often
 exercised this power. Now all my trouble is that He may not deign to
 grant all His goodness to one so wretched as I am, a creature so
-unworthy of the favours already bestowed on her."
+unworthy of the favours already bestowed on her.”
 
 The doctor reassured her as best he could, and began to examine her
-attentively as they conversed together. "She was," he said, "a woman
+attentively as they conversed together. “She was,” he said, “a woman
 naturally courageous and fearless; naturally gentle and good; not easily
 excited; clever and penetrating, seeing things very clearly in her mind,
 and expressing herself well and in few but careful words; easily finding
 a way out of a difficulty, and choosing her line of conduct in the most
 embarrassing circumstances; light-minded and fickle; unstable, paying no
 attention if the same thing were said several times over. For this
-reason," continued the doctor, "I was obliged to alter what I had to say
+reason,” continued the doctor, “I was obliged to alter what I had to say
 from time to time, keeping her but a short time to one subject, to
 which, however, I would return later, giving the matter a new appearance
 and disguising it a little. She spoke little and well, with no sign of
@@ -1639,7 +1638,7 @@ gentle, extraordinarily white skin, good nose, and no disagreeable
 feature. Still, there was nothing unusually attractive in the face:
 already she was a little wrinkled, and looked older than her age.
 Something made me ask at our first interview how old she was.
-’Monsieur,’ she said, ’if I were to live till Sainte-Madeleine’s day I
+‘Monsieur,’ she said, ‘if I were to live till Sainte-Madeleine’s day I
 should be forty-six. On her day I came into the world, and I bear her
 name. I was christened Marie-Madeleine. But near to the day as we now
 are, I shall not live so long: I must end to-day, or at latest
@@ -1651,7 +1650,7 @@ frightened one at first, and from time to time I saw her face twitching
 with anger, scorn, or ill-will. I forgot to say that she was very little
 and thin. Such is, roughly given, a description of her body and mind,
 which I very soon came to know, taking pains from the first to observe
-her, so as to lose no time in acting on what I discovered."
+her, so as to lose no time in acting on what I discovered.”
 
 As she was giving a first brief sketch of her life to her confessor, the
 marquise remembered that he had not yet said mass, and reminded him
@@ -1675,26 +1674,26 @@ in his penitent, and he hastened back to her side.
 
 As soon as she saw the door open, she advanced calmly towards him, and
 asked if he had truly prayed for her; and when he assured her of this,
-she said, "Father, shall I have the consolation of receiving the
-viaticum before I die?"
+she said, “Father, shall I have the consolation of receiving the
+viaticum before I die?”
 
-"Madame," replied the doctor, "if you are condemned to death, you must
+“Madame,” replied the doctor, “if you are condemned to death, you must
 die without that sacrament, and I should be deceiving you if I let you
 hope for it. We have heard of the death of the constable of Saint-Paul
 without his obtaining this grace, in spite of all his entreaties. He was
 executed in sight of the towers of Notre-Dame. He offered his own
 prayer, as you may offer yours, if you suffer the same fate. But that is
-all: God, in His goodness, allows it to suffice."
+all: God, in His goodness, allows it to suffice.”
 
-"But," replied the marquise, "I believe M. de Cinq-Mars and M. de Thou
-communicated before their death."
+“But,” replied the marquise, “I believe M. de Cinq-Mars and M. de Thou
+communicated before their death.”
 
-"I think not, madame," said the doctor; "for it is not so said in the
-pages of Montresor or any other book that describes their execution."
+“I think not, madame,” said the doctor; “for it is not so said in the
+pages of Montresor or any other book that describes their execution.”
 
-"But M. de Montmorency?" said she.
+“But M. de Montmorency?” said she.
 
-"But M. de Marillac?" replied the doctor.
+“But M. de Marillac?” replied the doctor.
 
 In truth, if the favour had been granted to the first, it had been
 refused to the second, and the marquise was specially struck thereby,
@@ -1704,7 +1703,7 @@ sacrament at the midnight mass said for the salvation of his soul by
 Father Bourdaloue, for she said nothing about it, and hearing the
 doctor’s answer, only sighed.
 
-"Besides," he continued, "in recalling examples of the kind, madame, you
+“Besides,” he continued, “in recalling examples of the kind, madame, you
 must not build upon them, please: they are extraordinary cases, not the
 rule. You must expect no privilege; in your case the ordinary laws will
 be carried out, and your fate will not differ from the fate of other
@@ -1718,9 +1717,9 @@ which is the mystical substance of Christ; and in suffering for Him and
 with Him, this last communion of agony that is your portion, madame, and
 is the most perfect communion of all. If you heartily detest your crime
 and love God with all your soul, if you have faith and charity, your
-death is a martyrdom and a new baptism."
+death is a martyrdom and a new baptism.”
 
-"Alas, my God," replied the marquise, "after what you tell me, now that
+“Alas, my God,” replied the marquise, “after what you tell me, now that
 I know the executioner’s hand was necessary to my salvation, what should
 I have become had I died at Liege? Where should I have been now? And
 even if I had not been taken, and had lived another twenty years away
@@ -1738,24 +1737,24 @@ such an exhibition of hardihood. Now I recognise my fault, and will
 repair it. Furthermore, sir, far from feeling angry with the president
 for the judgment he to-day passes against me, far from complaining of
 the prosecutor who has demanded it, I thank them both most humbly, for
-my salvation depends upon it."
+my salvation depends upon it.”
 
 The doctor was about to answer, encouraging her, when the door opened:
 it was dinner coming in, for it was now half-past one. The marquise
 paused and watched what was brought in, as though she were playing
 hostess in her own country house. She made the woman and the two men who
 watched her sit down to the table, and turning to the doctor, said,
-"Sir, you will not wish me to stand on ceremony with you; these good
+“Sir, you will not wish me to stand on ceremony with you; these good
 people always dine with me to keep me company, and if you approve, we
-will do the same to-day. This is the last meal," she added, addressing
-them, "that I shall take with you." Then turning to the woman, "Poor
-Madame du Rus," said she, "I have been a trouble to you for a long time;
+will do the same to-day. This is the last meal,” she added, addressing
+them, “that I shall take with you.” Then turning to the woman, “Poor
+Madame du Rus,” said she, “I have been a trouble to you for a long time;
 but have a little patience, and you will soon be rid of me. To-morrow
 you can go to Dravet; you will have time, for in seven or eight hours
 from now there will be nothing more to do for me, and I shall be in the
 gentleman’s hands; you will not be allowed near me. After then, you can
 go away for good; for I don’t suppose you will have the heart to see me
-executed." All this she said quite calmly, but not with pride. From time
+executed.” All this she said quite calmly, but not with pride. From time
 to time her people tried to hide their tears, and she made a sign of
 pitying them. Seeing that the dinner was on the table and nobody eating,
 she invited the doctor to take some soup, asking him to excuse the
@@ -1766,35 +1765,35 @@ knife or fork had been set in her place.
 
 When the meal was almost half finished, she begged the doctor to let her
 drink his health. He replied by drinking hers, and she seemed to be
-quite charmed by, his condescension. "To-morrow is a fast day," said
-she, setting down her glass, "and although it will be a day of great
+quite charmed by, his condescension. “To-morrow is a fast day,” said
+she, setting down her glass, “and although it will be a day of great
 fatigue for me, as I shall have to undergo the question as well as
-death, I intend to obey the orders of the Church and keep my fast."
+death, I intend to obey the orders of the Church and keep my fast.”
 
-"Madame," replied the doctor, "if you needed soup to keep you up, you
+“Madame,” replied the doctor, “if you needed soup to keep you up, you
 would not have to feel any scruple, for it will be no self-indulgence,
-but a necessity, and the Church does not exact fasting in such a case."
+but a necessity, and the Church does not exact fasting in such a case.”
 
-"Sir," replied the marquise, "I will make no difficulty about it, if it
+“Sir,” replied the marquise, “I will make no difficulty about it, if it
 is necessary and if you order it; but it will not be needed, I think: if
 I have some soup this evening for supper, and some more made stronger
 than usual a little before midnight, it will be enough to last me
-through to-morrow, if I have two fresh eggs to take after the question."
+through to-morrow, if I have two fresh eggs to take after the question.”
 
-"In truth," says the priest in the account we give here, "I was alarmed
+“In truth,” says the priest in the account we give here, “I was alarmed
 by this calm behaviour. I trembled when I heard her give orders to the
 concierge that the soup was to be made stronger than usual and that she
 was to have two cups before midnight. When dinner was over, she was
 given pen and ink, which she had already asked for, and told me that she
 had a letter to write before I took up my pen to put down what she
-wanted to dictate." The letter, she explained, which was difficult to
+wanted to dictate.” The letter, she explained, which was difficult to
 write, was to her husband. She would feel easier when it was written.
 For her husband she expressed so much affection, that the doctor,
 knowing what had passed, felt much surprised, and wishing to try her,
 said that the affection was not reciprocated, as her husband had
 abandoned her the whole time of the trial. The marquise interrupted him:
 
-"My father, we must not judge things too quickly or merely by
+“My father, we must not judge things too quickly or merely by
 appearances. M. de Brinvilliers has always concerned himself with me,
 and has only failed in doing what it was impossible to do. Our
 interchange of letters never ceased while I was out of the kingdom; do
@@ -1802,16 +1801,16 @@ not doubt but that he would have come to Paris as soon as he knew I was
 in prison, had the state of his affairs allowed him to come safely. But
 you must know that he is deeply in debt, and could not appear in Paris
 without being arrested. Do not suppose that he is without feeling for
-me."
+me.”
 
 She then began to write, and when her letter was finished she handed it
-to the doctor, saying, "You, sir, are the lord and master of all my
+to the doctor, saying, “You, sir, are the lord and master of all my
 sentiments from now till I die; read this letter, and if you find
-anything that should be altered, tell me."
+anything that should be altered, tell me.”
 
 This was the letter—
 
-"When I am on the point of yielding up my soul to God, I wish to assure
+“When I am on the point of yielding up my soul to God, I wish to assure
 you of my affection for you, which I shall feel until the last moment of
 my life. I ask your pardon for all that I have done contrary to my duty.
 I am dying a shameful death, the work of my enemies: I pardon them with
@@ -1822,64 +1821,64 @@ an account to God of all your actions, and even your idle words, just as
 I must do now. Be mindful of your worldly affairs, and of our children,
 and give them a good example; consult Madame Marillac and Madame Couste.
 Let as many prayers as possible be said for me, and believe that in my
-death I am still ever yours, D’AUBRAY."
+death I am still ever yours, D’AUBRAY.”
 
 The doctor read this letter carefully; then he told her that one of her
-phrases was not right—the one about her enemies. "For you have no other
-enemies," said he, "than your own crimes. Those whom you call your
+phrases was not right—the one about her enemies. “For you have no other
+enemies,” said he, “than your own crimes. Those whom you call your
 enemies are those who love the memory of your father and brothers, whom
-you ought to have loved more than they do."
+you ought to have loved more than they do.”
 
-"But those who have sought my death," she replied, "are my enemies, are
-they not, and is it not a Christian act to forgive them?"
+“But those who have sought my death,” she replied, “are my enemies, are
+they not, and is it not a Christian act to forgive them?”
 
-"Madame," said the doctor, "they are not your enemies, but you are the
+“Madame,” said the doctor, “they are not your enemies, but you are the
 enemy of the human race: nobody can think without, horror of your
-crimes."
+crimes.”
 
-"And so, my father," she replied, "I feel no resentment towards them,
+“And so, my father,” she replied, “I feel no resentment towards them,
 and I desire to meet in Paradise those who have been chiefly
-instrumental in taking me and bringing me here."
+instrumental in taking me and bringing me here.”
 
-"Madame," said the doctor, "what mean you by this? Such words are used
-by some when they desire people’s death. Explain, I beg, what you mean."
+“Madame,” said the doctor, “what mean you by this? Such words are used
+by some when they desire people’s death. Explain, I beg, what you mean.”
 
-"Heaven forbid," cried the marquise, "that you should understand me
+“Heaven forbid,” cried the marquise, “that you should understand me
 thus! Nay, may God grant them long prosperity in this world and infinite
 glory in the next! Dictate a new letter, and I will write just what you
-please."
+please.”
 
 When a fresh letter had been written, the marquise would attend to
 nothing but her confession, and begged the doctor to take the pen for
-her. "I have done so many wrong thing’s," she said, "that if I only gave
+her. “I have done so many wrong thing’s,” she said, “that if I only gave
 you a verbal confession, I should never be sure I had given a complete
-account."
+account.”
 
 Then they both knelt down to implore the grace of the Holy Spirit. They
-said a ’Veni Creator’ and a ’Salve Regina’, and the doctor then rose and
+said a ‘Veni Creator’ and a ‘Salve Regina’, and the doctor then rose and
 seated himself at a table, while the marquise, still on her knees, began
 a Confiteor and made her whole confession. At nine o’clock, Father
 Chavigny, who had brought Doctor Pirot in the morning, came in again.
-The marquise seemed annoyed, but still put a good face upon it. "My
-father," said she, "I did not expect to see you so late; pray leave me a
-few minutes longer with the doctor." He retired. "Why has he come?"
+The marquise seemed annoyed, but still put a good face upon it. “My
+father,” said she, “I did not expect to see you so late; pray leave me a
+few minutes longer with the doctor.” He retired. “Why has he come?”
 asked the marquise.
 
-"It is better for you not to be alone," said the doctor.
+“It is better for you not to be alone,” said the doctor.
 
-"Then do you mean to leave me?" cried the marquise, apparently
+“Then do you mean to leave me?” cried the marquise, apparently
 terrified.
 
-"Madame, I will do as you wish," he answered; "but you would be acting
+“Madame, I will do as you wish,” he answered; “but you would be acting
 kindly if you could spare me for a few hours. I might go home, and
-Father Chavigny would stay with you."
+Father Chavigny would stay with you.”
 
-"Ah!" she cried, wringing her hands, "you promised you would not leave
+“Ah!” she cried, wringing her hands, “you promised you would not leave
 me till I am dead, and now you go away. Remember, I never saw you before
 this morning, but since then you have become more to me than any of my
-oldest friends."
+oldest friends.”
 
-"Madame," said the good doctor, "I will do all I can to please you. If I
+“Madame,” said the good doctor, “I will do all I can to please you. If I
 ask for a little rest, it is in order that I may resume my place with
 more vigour to-morrow, and render you better service than I otherwise
 could. If I take no rest, all I say or do must suffer. You count on the
@@ -1888,12 +1887,12 @@ to-morrow will be your great and decisive day, and we shall both need
 all the strength we have. We have already been working for thirteen or
 fourteen hours for the good of your salvation; I am not a strong man,
 and I think you should realise, madame, that if you do not let me rest a
-little, I may not be able to stay with you to the end."
+little, I may not be able to stay with you to the end.”
 
-"Sir," said the marquise, "you have closed my mouth. To-morrow is for me
+“Sir,” said the marquise, “you have closed my mouth. To-morrow is for me
 a far more important day than to-day, and I have been wrong: of course
 you must rest to-night. Let us just finish this one thing, and read over
-what we have written."
+what we have written.”
 
 It was done, and the doctor would have retired; but the supper came in,
 and the marquise would not let him go without taking something. She told
@@ -1909,14 +1908,14 @@ her. The priest was weeping, but she was calm, and received the doctor
 in just the same way as she had let him go. When Father Chavigny saw
 him, he retired. The marquise begged Chavigny to pray for her, and
 wanted to make him promise to return, but that he would not do. She then
-turned to the doctor, saying, "Sir, you are punctual, and I cannot
+turned to the doctor, saying, “Sir, you are punctual, and I cannot
 complain that you have broken your promise; but oh, how the time has
-dragged, and how long it has seemed before the clock struck six!"
+dragged, and how long it has seemed before the clock struck six!”
 
-"I am here, madame," said the doctor; "but first of all, how have you
-spent the night?"
+“I am here, madame,” said the doctor; “but first of all, how have you
+spent the night?”
 
-"I have written three letters," said the marquise, "and, short as they
+“I have written three letters,” said the marquise, “and, short as they
 were, they took a long time to write: one was to my sister, one to
 Madame de Marillac, and the third to M. Couste. I should have liked to
 show them to you, but Father Chavigny offered to take charge of them,
@@ -1926,14 +1925,14 @@ prayer; but when the father took up his breviary and I my rosary with
 the same intention, I felt so weary that I asked if I might lie on my
 bed; he said I might, and I had two good hours’ sleep without dreams or
 any sort of uneasiness; when I woke we prayed together, and had just
-finished when you came back."
+finished when you came back.”
 
-"Well, madame," said the doctor, "if you will, we can pray again; kneel
-down, and let us say the ’Veni Sancte Spiritus’."
+“Well, madame,” said the doctor, “if you will, we can pray again; kneel
+down, and let us say the ‘Veni Sancte Spiritus’.”
 
 She obeyed, and said the prayer with much unction and piety. The prayer
 finished, M. Pirot was about to take up the pen to go on with the
-confession, when she said, "Pray let me submit to you one question which
+confession, when she said, “Pray let me submit to you one question which
 is troubling me. Yesterday you gave me great hope of the mercy of God;
 but I cannot presume to hope I shall be saved without spending a long
 time in purgatory; my crime is far too atrocious to be pardoned on any
@@ -1949,9 +1948,9 @@ flames that burn her and consume not will some day cease? For the
 torment she suffers is like that of the damned, and the flames wherewith
 she is burned are even as the flames of hell. This I would fain know,
 that at this awful moment I may feel no doubt, that I may know for
-certain whether I dare hope or must despair."
+certain whether I dare hope or must despair.”
 
-"Madame," replied the doctor, "you are right, and God is too just to add
+“Madame,” replied the doctor, “you are right, and God is too just to add
 the horror of uncertainty to His rightful punishments. At that moment
 when the soul quits her earthly body the judgment of God is passed upon
 her: she hears the sentence of pardon or of doom; she knows whether she
@@ -1961,10 +1960,10 @@ This sentence, madame, you will learn at the very instant when the
 executioner’s axe strikes you; unless, indeed, the fire of charity has
 so purified you in this life that you may pass, without any purgatory at
 all, straight to the home of the blessed who surround the throne of the
-Lord, there to receive a recompense for earthly martyrdom."
+Lord, there to receive a recompense for earthly martyrdom.”
 
-"Sir," replied the marquise, "I have such faith in all you say that I
-feel I understand it all now, and I am satisfied."
+“Sir,” replied the marquise, “I have such faith in all you say that I
+feel I understand it all now, and I am satisfied.”
 
 The doctor and the marquise then resumed the confession that was
 interrupted the night before. The marquise had during the night
@@ -1975,8 +1974,8 @@ offences to recite an act of contrition.
 After an hour and a half they came to tell her to go down. The registrar
 was waiting to read her the sentence. She listened very calmly,
 kneeling, only moving her head; then, with no alteration in her voice,
-she said, "In a moment: we will have one word more, the doctor and I,
-and then I am at your disposal." She then continued to dictate the rest
+she said, “In a moment: we will have one word more, the doctor and I,
+and then I am at your disposal.” She then continued to dictate the rest
 of her confession. When she reached the end, she begged him to offer a
 short prayer with her, that God might help her to appear with such
 becoming contrition before her judges as should atone for her scandalous
@@ -1992,7 +1991,7 @@ done, and the judges saw that they could extract nothing further, they
 signed to the registrar to read the sentence. She stood to hear it: it
 was as follows:
 
-"That by the finding of the court, d’Aubray de Brinvilliers is convicted
+“That by the finding of the court, d’Aubray de Brinvilliers is convicted
 of causing the death by poison of Maitre Dreux d’Aubray, her father, and
 of the two Maitres d’Aubray, her brothers, one a civil lieutenant, the
 other a councillor to the Parliament, also of attempting the life of
@@ -2017,12 +2016,12 @@ proper persons; and the sum of 4000 livres shall be paid out of her
 estate to the king, and 400 livres to the Church for prayers to be said
 on behalf of the poisoned persons; and all the costs shall be paid,
 including those of Amelin called Lachaussee. In Parliament, 16th July
-1676."
+1676.”
 
 The marquise heard her sentence without showing any sign of fear or
-weakness. When it was finished, she said to the registrar, "Will you,
+weakness. When it was finished, she said to the registrar, “Will you,
 sir, be so kind as to read it again? I had not expected the tumbril, and
-I was so much struck by that that I lost the thread of what followed."
+I was so much struck by that that I lost the thread of what followed.”
 
 The registrar read the sentence again. From that moment she was the
 property of the executioner, who approached her. She knew him by the
@@ -2039,16 +2038,16 @@ inserted a horn into the patient’s mouth, and if he shut his teeth,
 forced him to open them by pinching his nose with the finger and thumb.]
 
 prepared for her, and turned to the registrar—for she would not address
-the executioner—saying, with a smile, "No doubt all this water is to
+the executioner—saying, with a smile, “No doubt all this water is to
 drown me in? I hope you don’t suppose that a person of my size could
-swallow it all." The executioner said not a word, but began taking off
+swallow it all.” The executioner said not a word, but began taking off
 her cloak and all her other garments, until she was completely naked. He
 then led her up to the wall and made her sit on the rack of the ordinary
 question, two feet from the ground. There she was again asked to give
 the names of her accomplices, the composition of the poison and its
-antidote; but she made the same reply as to the doctor, only adding, "If
+antidote; but she made the same reply as to the doctor, only adding, “If
 you do not believe me, you have my body in your hands, and you can
-torture me."
+torture me.”
 
 The registrar signed to the executioner to do his duty. He first
 fastened the feet of the marquise to two rings close together fixed to a
@@ -2061,20 +2060,20 @@ the feet, at first about twelve inches from the rings, to a distance of
 six inches. And here we may leave our narrative to reproduce the
 official report.
 
-"On the small trestle, while she was being stretched, she said several
-times, ’My God! you are killing me! And I only spoke the truth.’
+“On the small trestle, while she was being stretched, she said several
+times, ‘My God! you are killing me! And I only spoke the truth.’
 
-"The water was given: she turned and twisted, saying, ’You are killing
+“The water was given: she turned and twisted, saying, ‘You are killing
 me!’
 
-"The water was again given.
+“The water was again given.
 
-"Admonished to name her accomplices, she said there was only one man,
+“Admonished to name her accomplices, she said there was only one man,
 who had asked her for poison to get rid of his wife, but he was dead.
 
-"The water was given; she moved a little, but would not say anything.
+“The water was given; she moved a little, but would not say anything.
 
-"Admonished to say why, if she had no accomplice, she had written from
+“Admonished to say why, if she had no accomplice, she had written from
 the Conciergerie to Penautier, begging him to do all he could for her,
 and to remember that his interests in this matter were the same as her
 own, she said that she never knew Penautier had had any understanding
@@ -2089,9 +2088,9 @@ Sainte-Croix or he was not. If he was, he would suppose the marquise
 knew enough to accuse him, and would accordingly do his best to save
 her; if he was not, the letter was a letter wasted, and that was all.
 
-"The water was again given; she turned and twisted much, but said that
+“The water was again given; she turned and twisted much, but said that
 on this subject she had said all she possibly could; if she said
-anything else, it would be untrue."
+anything else, it would be untrue.”
 
 The ordinary question was at an end. The marquise had now taken half the
 quantity of water she had thought enough to drown her. The executioner
@@ -2104,16 +2103,16 @@ ankles, penetrated the flesh and made the blood run. The question began
 once more, interrupted by the demands of the registrar and the answers
 of the sufferer. Her cries seemed not even to be heard.
 
-"On the large trestle, during the stretching, she said several times, ’O
+“On the large trestle, during the stretching, she said several times, ‘O
 God, you tear me to, pieces! Lord, pardon me! Lord, have mercy upon me!’
 
-"Asked if she had nothing more to tell regarding her accomplices, she
+“Asked if she had nothing more to tell regarding her accomplices, she
 said they might kill her, but she would not tell a lie that would
 destroy her soul.
 
-"The water was given, she moved about a little, but would not speak.
+“The water was given, she moved about a little, but would not speak.
 
-"Admonished that she should tell the composition of the poisons and
+“Admonished that she should tell the composition of the poisons and
 their antidotes, she said that she did not know what was in them; the
 only thing she could recall was toads; that Sainte-Croix never revealed
 his secret to her; that she did not believe he made them himself, but
@@ -2123,18 +2122,18 @@ of no other than milk; and Sainte-Croix had told her that if one had
 taken milk in the morning, and on the first onset of the poison took
 another glassful, one would have nothing to fear.
 
-"Admonished to say if she could add anything further, she said she had
+“Admonished to say if she could add anything further, she said she had
 now told everything; and if they killed her, they could not extract
 anything more.
 
-"More water was given; she writhed a little, and said she was dead, but
+“More water was given; she writhed a little, and said she was dead, but
 nothing more.
 
-"More water was given; she writhed more violently, but would say no
+“More water was given; she writhed more violently, but would say no
 more.
 
-"Yet again water was given; writhing and twisting, she said, with a deep
-groan, ’O my God, I am killed!’ but would speak no more."
+“Yet again water was given; writhing and twisting, she said, with a deep
+groan, ‘O my God, I am killed!’ but would speak no more.”
 
 Then they tortured her no further: she was let down, untied, and placed
 before the fire in the usual manner. While there, close to the fire,
@@ -2144,20 +2143,20 @@ leave to retire, that he might say a mass for her, that God might grant
 her patience and courage. It is plain that the good priest had not
 prayed in vain.
 
-"Ah," said the marquise, when she perceived him, "I have long been
+“Ah,” said the marquise, when she perceived him, “I have long been
 desiring to see you again, that you might comfort me. My torture has
 been very long and very painful, but this is the last time I shall have
 to treat with men; now all is with God for the future. See my hands,
 sir, and my feet, are they not torn and wounded? Have not my
-executioners smitten me in the same places where Christ was smitten?"
+executioners smitten me in the same places where Christ was smitten?”
 
-"And therefore, madame," replied the priest, "these sufferings now are
+“And therefore, madame,” replied the priest, “these sufferings now are
 your happiness; each torture is one step nearer to heaven. As you say,
 you are now for God alone; all your thoughts and hopes must be fastened
 upon Him; we must pray to Him, like the penitent king, to give you a
 place among His elect; and since nought that is impure can pass thither,
 we must strive, madame, to purify you from all that might bar the way to
-heaven."
+heaven.”
 
 The marquise rose with the doctor’s aid, for she could scarcely stand;
 tottering, she stepped forward between him and the executioner, who took
@@ -2173,8 +2172,8 @@ then he first saw, by the light of the chapel window, how greatly
 changed she was. Her face, generally so pale, was inflamed, her eyes
 glowing and feverish, all her body involuntarily trembling. The doctor
 would have spoken a few words of consolation, but she did not attend.
-"Sir," she said, "do you know that my sentence is an ignominious one? Do
-you know there is fire in the sentence?"
+“Sir,” she said, “do you know that my sentence is an ignominious one? Do
+you know there is fire in the sentence?”
 
 The doctor gave no answer; but, thinking she needed something, bade the
 gaoler to bring her wine. A minute later he brought it in a cup, and the
@@ -2183,26 +2182,26 @@ it back. She then noticed that her neck was uncovered, and took out her
 handkerchief to cover it, asking the gaoler for a pin to fasten it with.
 When he was slow in finding a pin, looking on his person for it, she
 fancied that he feared she would choke herself, and shaking her head,
-said, with a smile, "You have nothing to fear now; and here is the
-doctor, who will pledge his word that I will do myself no mischief."
+said, with a smile, “You have nothing to fear now; and here is the
+doctor, who will pledge his word that I will do myself no mischief.”
 
-"Madame," said the gaoler, handing her the pin she wanted, "I beg your
+“Madame,” said the gaoler, handing her the pin she wanted, “I beg your
 pardon for keeping you waiting. I swear I did not distrust you; if
-anyone distrusts you, it is not I."
+anyone distrusts you, it is not I.”
 
 Then kneeling before her, he begged to kiss her hand. She gave it, and
-asked him to pray to God for her. "Ah yes," he cried, sobbing, "with all
-my heart." She then fastened her dress as best she could with her hands
+asked him to pray to God for her. “Ah yes,” he cried, sobbing, “with all
+my heart.” She then fastened her dress as best she could with her hands
 tied, and when the gaoler had gone and she was alone with the doctor,
 said:—
 
-"Did you not hear what I said, sir? I told you there was fire in my
+“Did you not hear what I said, sir? I told you there was fire in my
 sentence. And though it is only after death that my body is to be burnt,
 it will always be a terrible disgrace on my memory. I am saved the pain
 of being burnt alive, and thus, perhaps, saved from a death of despair,
-but the shamefulness is the same, and it is that I think of."
+but the shamefulness is the same, and it is that I think of.”
 
-"Madame," said the doctor, "it in no way affects your soul’s salvation
+“Madame,” said the doctor, “it in no way affects your soul’s salvation
 whether your body is cast into the fire and reduced to ashes or whether
 it is buried in the ground and eaten by worms, whether it is drawn on a
 hurdle and thrown upon a dung-heap, or embalmed with Oriental perfumes
@@ -2210,7 +2209,7 @@ and laid in a rich man’s tomb. Whatever may be your end, your body will
 arise on the appointed day, and if Heaven so will, it will come forth
 from its ashes more glorious than a royal corpse lying at this moment in
 a gilded casket. Obsequies, madame, are for those who survive, not for
-the dead."
+the dead.”
 
 A sound was heard at the door of the choir. The doctor went to see what
 it was, and found a man who insisted on entering, all but fighting with
@@ -2220,90 +2219,90 @@ before she left France; this she had partly paid for, but still owed him
 two hundred livres. He produced the note he had had from her, on which
 was a faithful record of the sums she had paid on account. The marquise
 at this point called out, not knowing what was going on, and the doctor
-and executioner went to her. "Have they come to fetch me already?" said
-she. "I am not well prepared just at this moment; but never mind, I am
-ready."
+and executioner went to her. “Have they come to fetch me already?” said
+she. “I am not well prepared just at this moment; but never mind, I am
+ready.”
 
-The doctor reassured her, and told her what was going on. "The man is
-quite right," she said to the executioner; "tell him I will give orders
-as far as I can about the money." Then, seeing the executioner retiring,
-she said to the doctor, "Must I go now, sir? I wish they would give me a
+The doctor reassured her, and told her what was going on. “The man is
+quite right,” she said to the executioner; “tell him I will give orders
+as far as I can about the money.” Then, seeing the executioner retiring,
+she said to the doctor, “Must I go now, sir? I wish they would give me a
 little more time; for though I am ready, as I told you, I am not really
 prepared. Forgive me, father; it is the question and the sentence that
 have upset me it is this fire burning in my eyes like hell-flames.
 
-"Had they left me with you all this time, there would now be better hope
-of my salvation."
+“Had they left me with you all this time, there would now be better hope
+of my salvation.”
 
-"Madame," said the doctor, "you will probably have all the time before
-nightfall to compose yourself and think what remains for you to do."
+“Madame,” said the doctor, “you will probably have all the time before
+nightfall to compose yourself and think what remains for you to do.”
 
-"Ah, sir," she replied, with a smile, "do not think they will show so
+“Ah, sir,” she replied, with a smile, “do not think they will show so
 much consideration for a poor wretch condemned to be burnt. That does
 not depend on ourselves; but as soon as everything is ready, they will
-let us know, and we must start."
+let us know, and we must start.”
 
-"Madame," said the doctor, "I am certain that they will give you the
-time you need."
+“Madame,” said the doctor, “I am certain that they will give you the
+time you need.”
 
-"No, no," she replied abruptly and feverishly, "no, I will not keep them
+“No, no,” she replied abruptly and feverishly, “no, I will not keep them
 waiting. As soon as the tumbril is at this door, they have only to tell
-me, and I go down."
+me, and I go down.”
 
-"Madame," said he, "I would not hold you back if I found you prepared to
+“Madame,” said he, “I would not hold you back if I found you prepared to
 stand before the face of God, for in your situation it is right to ask
 for no time, and to go when the moment is come; but not everyone is so
 ready as Christ was, who rose from prayer and awaked His disciples that
 He might leave the garden and go out to meet His enemies. You at this
 moment are weak, and if they come for you just now I should resist your
-departure."
+departure.”
 
-"Be calm; the time is not yet come," said the executioner, who had heard
+“Be calm; the time is not yet come,” said the executioner, who had heard
 this talk. He knew his statement must be believed, and wished as far as
-possible to reassure the marquise. "There is no hurry, and we cannot
-start for another two of three hours."
+possible to reassure the marquise. “There is no hurry, and we cannot
+start for another two of three hours.”
 
 This assurance calmed the marquise somewhat, and she thanked the man.
-Then turning to the doctor, she said, "Here is a rosary that I would
+Then turning to the doctor, she said, “Here is a rosary that I would
 rather should not fall into this person’s hands. Not that he could not
 make good use of it; for, in spite of their trade, I fancy that these
 people are Christians like ourselves. But I should prefer to leave this
-to somebody else."
+to somebody else.”
 
-"Madame," said the doctor, "if you will tell me your wishes in this
-matter, I will see that they are carried out."
+“Madame,” said the doctor, “if you will tell me your wishes in this
+matter, I will see that they are carried out.”
 
-"Alas!" she said, "there is no one but my sister; and I fear lest she,
+“Alas!” she said, “there is no one but my sister; and I fear lest she,
 remembering my crime towards her, may be too horrified to touch anything
 that belonged to me. If she did not mind, it would be a great comfort to
 me to think she would wear it after my death, and that the sight of it
 would remind her to pray for me; but after what has passed, the rosary
 could hardly fail to revive an odious recollection. My God, my God! I am
-desperately wicked; can it be that you will pardon me?"
+desperately wicked; can it be that you will pardon me?”
 
-"Madame," replied the doctor, "I think you are mistaken about Mlle,
+“Madame,” replied the doctor, “I think you are mistaken about Mlle,
 d’Aubray. You may see by her letter what are her feelings towards you,
 and you must pray with this rosary up to the very end. Let not your
 prayers be interrupted or distracted, for no guilty penitent must cease
 from prayer; and I, madame, will engage to deliver the rosary where it
-will be gladly received."
+will be gladly received.”
 
 And the marquise, who had been constantly distracted since the morning,
 was now, thanks to the patient goodness of the doctor, able to return
 with her former fervour to her prayers. She prayed till seven o’clock.
 As the clock struck, the executioner without a word came and stood
 before her; she saw that her moment had come, and said to the doctor,
-grasping his arm, "A little longer; just a few moments, I entreat."
+grasping his arm, “A little longer; just a few moments, I entreat.”
 
-"Madame," said the doctor, rising, "we will now adore the divine blood
+“Madame,” said the doctor, rising, “we will now adore the divine blood
 of the Sacrament, praying that you may be thus cleansed from all soil
 and sin that may be still in your heart. Thus shall you gain the respite
-you desire."
+you desire.”
 
 The executioner then tied tight the cords round her hands that he had
 let loose before, and she advanced pretty firmly and knelt before the
 altar, between the doctor and the chaplain. The latter was in his
-surplice, and chanted a ’Veni Creator, Salve Regina, and Tantum ergo’.
+surplice, and chanted a ‘Veni Creator, Salve Regina, and Tantum ergo’.
 These prayers over, he pronounced the blessing of the Holy Sacrament,
 while the marquise knelt with her face upon the ground. The executioner
 then went forward to get ready a shirt, and she made her exit from the
@@ -2319,32 +2318,32 @@ movement to cover her face, came undone, and several beads fell on the
 floor. She went on, however, without observing this; but the doctor
 stopped her, and he and the man stooped down and picked up all the
 beads, which they put into her hand. Thanking them humbly for this
-attention, she said to the man, "Sir, I know I have now no worldly
+attention, she said to the man, “Sir, I know I have now no worldly
 possessions, that all I have upon me belongs to you, and I may not give
 anything away without your consent; but I ask you kindly to allow me to
 give this chaplet to the doctor before I die: you will not be much the
 loser, for it is of no value, and I am giving it to him for my sister.
-Kindly let me do this."
+Kindly let me do this.”
 
-"Madame," said the man, "it is the custom for us to get all the property
+“Madame,” said the man, “it is the custom for us to get all the property
 of the condemned; but you are mistress of all you have, and if the thing
-were of the very greatest value you might dispose of it as you pleased."
+were of the very greatest value you might dispose of it as you pleased.”
 
 The doctor, whose arm she held, felt her shiver at this gallantry, which
 for her, with her natural haughty disposition, must have been the worst
 humiliation imaginable; but the movement was restrained, and her face
 gave no sign. She now came to the porch of the Conciergerie, between the
 court and the first door, and there she was made to sit down, so as to
-be put into the right condition for making the ’amende honorable’. Each
+be put into the right condition for making the ‘amende honorable’. Each
 step brought her nearer to the scaffold, and so did each incident cause
 her more uneasiness. Now she turned round desperately, and perceived the
 executioner holding a shirt in his hand. The door of the vestibule
 opened, and about fifty people came in, among them the Countess of
 Soissons, Madame du Refuge, Mlle. de Scudery, M. de Roquelaure, and the
 Abbe de Chimay. At the sight the marquise reddened with shame, and
-turning to the doctor, said, "Is this man to strip me again, as he did
+turning to the doctor, said, “Is this man to strip me again, as he did
 in the question chamber? All these preparations are very cruel; and, in
-spite of myself, they divert my thoughts, from God."
+spite of myself, they divert my thoughts, from God.”
 
 Low as her voice was, the executioner heard, and reassured her, saying
 that they would take nothing off, only putting the shirt over her other
@@ -2359,45 +2358,45 @@ hands together with one rope and put another round her waist, and yet
 another round her neck; then, kneeling before her, he took off her shoes
 and stockings. Then she stretched out her hands to the doctor.
 
-"Oh, sir," she cried, "in God’s name, you see what they have done to me!
-Come and comfort me."
+“Oh, sir,” she cried, “in God’s name, you see what they have done to me!
+Come and comfort me.”
 
 The doctor came at once, supporting her head upon his breast, trying to
 comfort her; but she, in a tone of bitter lamentation, gazing at the
-crowd, who devoured her with all their eyes, cried, "Oh, sir, is not
-this a strange, barbarous curiosity?"
+crowd, who devoured her with all their eyes, cried, “Oh, sir, is not
+this a strange, barbarous curiosity?”
 
-"Madame," said he, the tears in his eyes, "do not look at these eager
+“Madame,” said he, the tears in his eyes, “do not look at these eager
 people from the point of view of their curiosity and barbarity, though
 that is real enough, but consider it part of the humiliation sent by God
 for the expiation of your crimes. God, who was innocent, was subject to
 very different opprobrium, and yet suffered all with joy; for, as
 Tertullian observes, He was a victim fattened on the joys of suffering
-alone."
+alone.”
 
 As the doctor spoke these words, the executioner placed in the
 marquise’s hands the lighted torch which she was to carry to Notre-Dame,
-there to make the ’amende honorable’, and as it was too heavy, weighing
+there to make the ‘amende honorable’, and as it was too heavy, weighing
 two pounds, the doctor supported it with his right hand, while the
 registrar read her sentence aloud a second time. The doctor did all in
 his power to prevent her from hearing this by speaking unceasingly of
-God. Still she grew frightfully pale at the words, "When this is done,
+God. Still she grew frightfully pale at the words, “When this is done,
 she shall be conveyed on a tumbril, barefoot, a cord round her neck,
-holding in her hands a burning torch two pounds in weight," and the
+holding in her hands a burning torch two pounds in weight,” and the
 doctor could feel no doubt that in spite of his efforts she had heard.
 It became still worse when she reached the threshold of the vestibule
 and saw the great crowd waiting in the court. Then her face worked
 convulsively, and crouching down, as though she would bury her feet in
 the earth, she addressed the doctor in words both plaintive and wild:
-"Is it possible that, after what is now happening, M. de Brinvilliers
-can endure to go on living?"
+“Is it possible that, after what is now happening, M. de Brinvilliers
+can endure to go on living?”
 
-"Madame," said the doctor, "when our Lord was about to leave His
+“Madame,” said the doctor, “when our Lord was about to leave His
 disciples, He did not ask God to remove them from this earth, but to
-preserve them from all sin. ’My Father,’ He said, ’I ask not that You
+preserve them from all sin. ‘My Father,’ He said, ‘I ask not that You
 take them from the world, but keep them safe from evil.’ If, madame, you
 pray for M. de Brinvilliers, let it be only that he may be kept in
-grace, if he has it, and may attain to it if he has it not."
+grace, if he has it, and may attain to it if he has it not.”
 
 But the words were useless: at that moment the humiliation was too great
 and too public; her face contracted, her eyebrows knit, flames darted
@@ -2439,30 +2438,30 @@ troubled and frenzied look which terrified the doctor. He knew she must
 have been struck by something she saw, and, wishing to calm her, asked
 what it was.
 
-"Nothing, nothing," she replied quickly, looking towards him; "it was
-nothing."
+“Nothing, nothing,” she replied quickly, looking towards him; “it was
+nothing.”
 
-"But, madame," said he, "you cannot give the lie to your own eyes; and a
+“But, madame,” said he, “you cannot give the lie to your own eyes; and a
 minute ago I saw a fire very different from the fire of love, which only
 some displeasing sight can have provoked. What may this be? Tell me,
 pray; for you promised to tell me of any sort of temptation that might
-assail you."
+assail you.”
 
-"Sir," she said, "I will do so, but it is nothing." Then, looking
+“Sir,” she said, “I will do so, but it is nothing.” Then, looking
 towards the executioner, who, as we know, sat facing the doctor, she
-said, "Put me in front of you, please; hide that man from me." And she
+said, “Put me in front of you, please; hide that man from me.” And she
 stretched out her hands towards a man who was following the tumbril on
 horseback, and so dropped the torch, which the doctor took, and the
 crucifix, which fell on the floor. The executioner looked back, and then
-turned sideways as she wished, nodding and saying, "Oh yes, I
-understand." The doctor pressed to know what it meant, and she said, "It
+turned sideways as she wished, nodding and saying, “Oh yes, I
+understand.” The doctor pressed to know what it meant, and she said, “It
 is nothing worth telling you, and it is a weakness in me not to be able
 to bear the sight of a man who has ill-used me. The man who touched the
 back of the tumbril is Desgrais, who arrested me at Liege, and treated
 me so badly all along the road. When I saw him, I could not control
-myself, as you noticed."
+myself, as you noticed.”
 
-"Madame," said the doctor, "I have heard of him, and you yourself spoke
+“Madame,” said the doctor, “I have heard of him, and you yourself spoke
 of him in confession; but the man was sent to arrest you, and was in a
 responsible position, so that he had to guard you closely and
 rigorously; even if he had been more severe, he would only have been
@@ -2470,17 +2469,17 @@ carrying out his orders. Jesus Christ, madame, could but have regarded
 His executioners as ministers of iniquity, servants of injustice, who
 added of their own accord every indignity they could think of; yet all
 along the way He looked on them with patience and more than patience,
-and in His death He prayed for them."
+and in His death He prayed for them.”
 
 In the heart of the marquise a hard struggle was passing, and this was
 reflected on her face; but it was only for a moment, and after a last
 convulsive shudder she was again calm and serene; then she said:—
 
-"Sir, you are right, and I am very wrong to feel such a fancy as this:
+“Sir, you are right, and I am very wrong to feel such a fancy as this:
 may God forgive me; and pray remember this fault on the scaffold, when
 you give me the absolution you promise, that this too may be pardoned
-me." Then she turned to the executioner and said, "Please sit where you
-were before, that I may see M. Desgrais." The man hesitated, but on a
+me.” Then she turned to the executioner and said, “Please sit where you
+were before, that I may see M. Desgrais.” The man hesitated, but on a
 sign from the doctor obeyed. The marquise looked fully at Desgrais for
 some time, praying for him; then, fixing her eyes on the crucifix, began
 to pray for herself: this incident occurred in front of the church of
@@ -2497,18 +2496,18 @@ the marquise, who herself stood on the square, with the registrar on her
 right, the executioner on her left, and a great crowd of people behind
 her, inside the church, all the doors being thrown open. She was made to
 kneel, and in her hands was placed the lighted torch, which up to that
-time the doctor had helped to carry. Then the registrar read the ’amende
+time the doctor had helped to carry. Then the registrar read the ‘amende
 honorable’ from a written paper, and she began to say it after him, but
-in so low a voice that the executioner said loudly, "Speak out as he
-does; repeat every word. Louder, louder!" Then she raised her voice, and
+in so low a voice that the executioner said loudly, “Speak out as he
+does; repeat every word. Louder, louder!” Then she raised her voice, and
 loudly and firmly recited the following apology.
 
-"I confess that, wickedly and for revenge, I poisoned my father and my
+“I confess that, wickedly and for revenge, I poisoned my father and my
 brothers, and attempted to poison my sister, to obtain possession of
 their goods, and I ask pardon of God, of the king, and of my country’s
-laws."
+laws.”
 
-The ’amende honorable’ over, the executioner again carried her to the
+The ‘amende honorable’ over, the executioner again carried her to the
 tumbril, not giving her the torch any more: the doctor sat beside her:
 all was just as before, and the tumbril went on towards La Greve. From
 that moment, until she arrived at the scaffold, she never took her eyes
@@ -2519,25 +2518,25 @@ mingled with curses.
 
 When they reached the Place de Greve, the tumbril stopped at a little
 distance from the scaffold. Then the registrar M. Drouet, came up on
-horseback, and, addressing the marquise, said, "Madame, have you nothing
+horseback, and, addressing the marquise, said, “Madame, have you nothing
 more to say? If you wish to make any declaration, the twelve
-commissaries are here at hand, ready to receive it."
+commissaries are here at hand, ready to receive it.”
 
-"You see, madame," said the doctor, "we are now at the end of our
+“You see, madame,” said the doctor, “we are now at the end of our
 journey, and, thank God, you have not lost your power of endurance on
 the road; do not destroy the effect of all you have suffered and all you
 have yet to suffer by concealing what you know, if perchance you do know
-more than you have hitherto said."
+more than you have hitherto said.”
 
-"I have told all I know," said the marquise, "and there is no more I can
-say."
+“I have told all I know,” said the marquise, “and there is no more I can
+say.”
 
-"Repeat these words in a loud voice," said the doctor, "so that
-everybody may hear."
+“Repeat these words in a loud voice,” said the doctor, “so that
+everybody may hear.”
 
 Then in her loudest voice the marquise repeated—
 
-"I have told all I know, and there is no more I can say."
+“I have told all I know, and there is no more I can say.”
 
 After this declaration, they were going to drive the tumbril nearer to
 the scaffold, but the crowd was so dense that the assistant could not
@@ -2545,32 +2544,32 @@ force a way through, though he struck out on every side with his whip.
 So they had to stop a few paces short. The executioner had already got
 down, and was adjusting the ladder. In this terrible moment of waiting,
 the marquise looked calmly and gratefully at the doctor, and when she
-felt that the tumbril had stopped, said, "Sir, it is not here we part:
+felt that the tumbril had stopped, said, “Sir, it is not here we part:
 you promised not to leave me till my head is cut off. I trust you will
-keep your word."
+keep your word.”
 
-"To be sure I will," the doctor replied; "we shall not be separated
+“To be sure I will,” the doctor replied; “we shall not be separated
 before the moment of your death: be not troubled about that, for I will
-never forsake you."
+never forsake you.”
 
-"I looked for this kindness," she said, "and your promise was too solemn
+“I looked for this kindness,” she said, “and your promise was too solemn
 for you to think for one moment of failing me. Please be on the scaffold
 and be near me. And now, sir, I would anticipate the final farewell,—for
 all the things I shall have to do on the scaffold may distract me,—so
 let me thank you here. If I am prepared to suffer the sentence of my
 earthly judge, and to hear that of my heavenly judge, I owe it to your
 care for me, and I am deeply grateful. I can only ask your forgiveness
-for the trouble I have given you." Tears choked the doctor’s speech, and
-he could not reply. "Do you not forgive me?" she repeated. At her words,
+for the trouble I have given you.” Tears choked the doctor’s speech, and
+he could not reply. “Do you not forgive me?” she repeated. At her words,
 the doctor tried to reassure her; but feeling that if he opened his
 mouth he must needs break into sobs, he still kept silent. The marquise
-appealed to him a third time. "I entreat you, sir, forgive me; and do
+appealed to him a third time. “I entreat you, sir, forgive me; and do
 not regret the time you have passed with me. You will say a De Profundus
 at the moment of my death, and a mass far me to-morrow: will you not
-promise?"
+promise?”
 
-"Yes, madame," said the doctor in a choking voice; "yes, yes, be calm,
-and I will do all you bid me."
+“Yes, madame,” said the doctor in a choking voice; “yes, yes, be calm,
+and I will do all you bid me.”
 
 The executioner hereupon removed the board, and helped the marquise out
 of the tumbril; and as they advanced the few steps towards the scaffold,
@@ -2598,7 +2597,7 @@ there showed the hilt of a long, straight sabre, which he had carefully
 concealed for fear Madame de Brinvilliers might see it when she mounted
 the scaffold. When the doctor, having pronounced absolution, turned his
 head and saw that the man was not yet armed, he uttered these prayers,
-which she repeated after him: "Jesus, Son of David and Mary, have mercy
+which she repeated after him: “Jesus, Son of David and Mary, have mercy
 upon me; Mary, daughter of David and Mother of Jesus, pray for me; my
 God, I abandon my body, which is but dust, that men may burn it and do
 with it what they please, in the firm faith that it shall one day arise
@@ -2606,7 +2605,7 @@ and be reunited with my soul. I trouble not concerning my body; grant, O
 God, that I yield up to Thee my soul, that it may enter into Thy rest;
 receive it into Thy bosom; that it may dwell once more there, whence it
 first descended; from Thee it came, to Thee returns; Thou art the source
-and the beginning; be thou, O God, the centre and the end!"
+and the beginning; be thou, O God, the centre and the end!”
 
 The marquise had said these words when suddenly the doctor heard a dull
 stroke like the sound of a chopper chopping meat upon a block: at that
@@ -2621,18 +2620,18 @@ could see the neck cut open and bleeding. Immediately, in fulfilment of
 his promise, the doctor said a De Profundis.
 
 When the prayer was done and the doctor raised his head, he saw before
-him the executioner wiping his face. "Well, sir," said he, "was not that
+him the executioner wiping his face. “Well, sir,” said he, “was not that
 a good stroke? I always put up a prayer on these occasions, and God has
 always assisted me; but I have been anxious for several days about this
-lady. I had six masses said, and I felt strengthened in hand and heart."
+lady. I had six masses said, and I felt strengthened in hand and heart.”
 He then pulled out a bottle from under his cloak, and drank a dram; and
 taking the body under one arm, all dressed as it was, and the head in
 his other hand, the eyes still bandaged, he threw both upon the faggots,
 which his assistant lighted.
 
-"The next day," says Madame de Sevigne, "people were looking for the
+“The next day,” says Madame de Sevigne, “people were looking for the
 charred bones of Madame de Brinvilliers, because they said she was a
-saint."
+saint.”
 
 In 1814, M. d’Offemont, father of the present occupier of the castle
 where the Marquise de Brinvilliers poisoned her father, frightened at
@@ -2663,7 +2662,7 @@ Madame de Brinvilliers.
 
 
 
-                                  ————
+                                  ――――
 
 *** END OF THIS PROJECT GUTENBERG EBOOK THE MARQUISE DE BRINVILLIERS ***
 
@@ -2677,21 +2676,22 @@ We will update this book if we find any errors.
 
 This book can be found under: http://www.gutenberg.org/ebooks/2756
 
-Creating the works from public domain print editions means that no one
-owns a United States copyright in these works, so the Foundation (and
-you!) can copy and distribute it in the United States without permission
-and without paying copyright royalties.  Special rules, set forth in the
-General Terms of Use part of this license, apply to copying and
-distributing Project Gutenberg™ electronic works to protect the Project
-Gutenberg™ concept and trademark. Project Gutenberg is a registered
-trademark, and may not be used if you charge for the eBooks, unless you
-receive specific permission. If you do not charge anything for copies of
-this eBook, complying with the rules is very easy. You may use this
-eBook for nearly any purpose such as creation of derivative works,
-reports, performances and research. They may be modified and printed and
-given away – you may do practically _anything_ with public domain
-eBooks.  Redistribution is subject to the trademark license, especially
-commercial redistribution.
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works, so
+the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright royalties.
+Special rules, set forth in the General Terms of Use part of this
+license, apply to copying and distributing Project Gutenberg™ electronic
+works to protect the Project Gutenberg™ concept and trademark. Project
+Gutenberg is a registered trademark, and may not be used if you charge
+for the eBooks, unless you receive specific permission. If you do not
+charge anything for copies of this eBook, complying with the rules is
+very easy. You may use this eBook for nearly any purpose such as
+creation of derivative works, reports, performances and research.  They
+may be modified and printed and given away – you may do practically
+_anything_ in the United States with eBooks not protected by U.S.
+copyright law. Redistribution is subject to the trademark license,
+especially commercial redistribution.
 
 
 
@@ -2737,9 +2737,9 @@ paragraph 1.E below.
 Foundation” or PGLAF), owns a compilation copyright in the collection of
 Project Gutenberg™ electronic works. Nearly all the individual works in
 the collection are in the public domain in the United States. If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you
-from copying, distributing, performing, displaying or creating
+individual work is unprotected by copyright law in the United States and
+you are located in the United States, we do not claim a right to prevent
+you from copying, distributing, performing, displaying or creating
 derivative works based on the work as long as all references to Project
 Gutenberg are removed. Of course, we hope that you will support the
 Project Gutenberg™ mission of promoting free access to electronic works
@@ -2748,6 +2748,7 @@ of this agreement for keeping the Project Gutenberg™ name associated
 with the work. You can easily comply with the terms of this agreement by
 keeping this work in the same format with its attached full Project
 Gutenberg™ License when you share it without charge with others.
+
 
 *1.D.* The copyright laws of the place where you are located also govern
 what you can do with this work. Copyright laws in most countries are in
@@ -2767,20 +2768,25 @@ which the phrase “Project Gutenberg” appears, or with which the phrase
 “Project Gutenberg” is associated) is accessed, displayed, performed,
 viewed, copied or distributed:
 
-    This eBook is for the use of anyone anywhere at no cost and with
+    This eBook is for the use of anyone anywhere in the United
+    States and most other parts of the world at no cost and with
     almost no restrictions whatsoever. You may copy it, give it away
     or re-use it under the terms of the Project Gutenberg License
-    included with this eBook or online at http://www.gutenberg.org
+    included with this eBook or online at http://www.gutenberg.org .
+    If you are not located in the United States, you’ll have to
+    check the laws of the country where you are located before using
+    this ebook.
 
 *1.E.2.* If an individual Project Gutenberg™ electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges. If you are redistributing or providing access to a work with
-the phrase “Project Gutenberg” associated with or appearing on the work,
-you must comply either with the requirements of paragraphs 1.E.1 through
-1.E.7 or obtain permission for the use of the work and the Project
-Gutenberg™ trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+from texts not protected by U.S. copyright law (does not contain a
+notice indicating that it is posted with permission of the copyright
+holder), the work can be copied and distributed to anyone in the United
+States without paying any fees or charges. If you are redistributing or
+providing access to a work with the phrase “Project Gutenberg”
+associated with or appearing on the work, you must comply either with
+the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission
+for the use of the work and the Project Gutenberg™ trademark as set
+forth in paragraphs 1.E.8 or 1.E.9.
 
 *1.E.3.* If an individual Project Gutenberg™ electronic work is posted
 with the permission of the copyright holder, your use and distribution
@@ -2851,21 +2857,22 @@ that
 *1.E.9.* If you wish to charge a fee or distribute a Project Gutenberg™
 electronic work or group of works on different terms than are set forth
 in this agreement, you must obtain permission in writing from both the
-Project Gutenberg Literary Archive Foundation and Michael Hart, the
-owner of the Project Gutenberg™ trademark. Contact the Foundation as set
-forth in Section 3. below.
+Project Gutenberg Literary Archive Foundation and The Project Gutenberg
+Trademark LLC, the owner of the Project Gutenberg™ trademark. Contact
+the Foundation as set forth in Section 3. below.
 
 *1.F.*
 
 *1.F.1.* Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg™ collection.
-Despite these efforts, Project Gutenberg™ electronic works, and the
-medium on which they may be stored, may contain “Defects,” such as, but
-not limited to, incomplete, inaccurate or corrupt data, transcription
-errors, a copyright or other intellectual property infringement, a
-defective or damaged disk or other medium, a computer virus, or computer
-codes that damage or cannot be read by your equipment.
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by your
+equipment.
 
 *1.F.2.* LIMITED WARRANTY, DISCLAIMER OF DAMAGES – Except for the “Right
 of Replacement or Refund” described in paragraph 1.F.3, the Project
@@ -2896,7 +2903,7 @@ opportunities to fix the problem.
 *1.F.4.* Except for the limited right of replacement or refund set forth
 in paragraph 1.F.3, this work is provided to you ‘AS-IS,’ WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
 *1.F.5.* Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of damages.
@@ -2951,13 +2958,13 @@ http://www.gutenberg.org/fundraising/pglaf . Contributions to the
 Project Gutenberg Literary Archive Foundation are tax deductible to the
 full extent permitted by U.S.  federal laws and your state’s laws.
 
-The Foundation’s principal office is located at 4557 Melan Dr.
-S. Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations. Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org. Email contact links and up to date contact
-information can be found at the Foundation’s web site and official page
-at http://www.pglaf.org
+The Foundation’s principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its volunteers
+and employees are scattered throughout numerous locations. Its business
+office is located at 809 North 1500 West, Salt Lake City, UT 84116,
+(801) 596-1887, email business@pglaf.org. Email contact links and up to
+date contact information can be found at the Foundation’s web site and
+official page at http://www.pglaf.org
 
 For additional contact information:
 
@@ -3012,9 +3019,9 @@ with anyone. For thirty years, he produced and distributed Project
 Gutenberg™ eBooks with only a loose network of volunteer support.
 
 Project Gutenberg™ eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S. unless
-a copyright notice is included. Thus, we do not necessarily keep eBooks
-in compliance with any particular paper edition.
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper edition.
 
 Each eBook is in a subdirectory of the same number as the eBook’s eBook
 number, often in several formats including plain vanilla ASCII,
